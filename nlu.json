@@ -6,7 +6,7 @@
   },
   "settings" : {
     "language" : "ru",
-    "spellingCorrection" : false,
+    "spellingCorrection" : true,
     "classificationAlgorithm" : "sts",
     "timezone" : "Europe/Moscow",
     "extendedSettings" : {
@@ -69,11 +69,17 @@
     }, {
       "text" : "Курс доллара"
     }, {
-      "text" : "курс доллара"
+      "text" : "Какой сейчас курс валюты?"
     }, {
-      "text" : "курс доллара сейчас"
+      "text" : "курс валюты "
     }, {
-      "text" : "курс доллара сейчас?"
+      "text" : "подскажи курс"
+    }, {
+      "text" : "курс евро"
+    }, {
+      "text" : "какой курс евро? "
+    }, {
+      "text" : "Какой курс евро?"
     } ],
     "classificationRules" : {
       "refs" : [ ]
