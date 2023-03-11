@@ -1,7 +1,11 @@
 require: slotfilling/slotFilling.sc
   module = sys.zb-common
 theme: /
-
+    
+    state: Start
+        q!: $regex</start>
+        a: Начнем!
+        
     state: hello 
         intent!: /привет
         a: Привет
