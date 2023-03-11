@@ -19,7 +19,17 @@
     "path" : "/погода",
     "enabled" : true,
     "shared" : false,
-    "phrases" : [ ],
+    "phrases" : [ {
+      "text" : "Какая погода в Питере?"
+    }, {
+      "text" : "Какая погода сейчас?"
+    }, {
+      "text" : "Погода какая?"
+    }, {
+      "text" : "Погода на улице"
+    }, {
+      "text" : "Погода"
+    } ],
     "classificationRules" : {
       "refs" : [ ]
     },
@@ -52,7 +62,19 @@
     "path" : "/курс",
     "enabled" : true,
     "shared" : false,
-    "phrases" : [ ],
+    "phrases" : [ {
+      "text" : "Какой курс доллара?"
+    }, {
+      "text" : "Курс доллара?"
+    }, {
+      "text" : "Курс доллара"
+    }, {
+      "text" : "курс доллара"
+    }, {
+      "text" : "курс доллара сейчас"
+    }, {
+      "text" : "курс доллара сейчас?"
+    } ],
     "classificationRules" : {
       "refs" : [ ]
     },

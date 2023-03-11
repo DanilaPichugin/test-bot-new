@@ -6,15 +6,15 @@ theme: /
         q!: $regex</start>
         a: Начнём.
 
-    state: Hello
+    state: hello 
         intent!: /привет
         a: Привет привет
 
-    state: Weather
+    state: weather
         intent!: /погода
         a: Погода сегодня ясная, температура 27 градусов тепла. 
     
-    state: Currency
+    state: currency 
         intent!: /курс
         a: Курс доллара: 87 рублей 43 копейки.
 
